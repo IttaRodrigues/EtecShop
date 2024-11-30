@@ -1,0 +1,2 @@
+git config --global user.name IttaRodrigues
+git config --global user.email itamararodriguesdeoliveira@gmail.com
